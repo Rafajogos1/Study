@@ -6,6 +6,6 @@ class Namespaces
 	{
 		Person pp = new Person();
 
-		pp.Introduction("Sus", 18);
+		pp.Introduction("Tom", 18);
 	}
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/rafael/Desktop/Independent Study/C#/Hello, person/Hello, person.csproj": {}
+    "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Hello, person\\Hello, person.csproj": {}
   },
   "projects": {
-    "/home/rafael/Desktop/Independent Study/C#/Hello, person/Hello, person.csproj": {
+    "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Hello, person\\Hello, person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rafael/Desktop/Independent Study/C#/Hello, person/Hello, person.csproj",
+        "projectUniqueName": "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Hello, person\\Hello, person.csproj",
         "projectName": "Hello, person",
-        "projectPath": "/home/rafael/Desktop/Independent Study/C#/Hello, person/Hello, person.csproj",
-        "packagesPath": "/home/rafael/.nuget/packages/",
-        "outputPath": "/home/rafael/Desktop/Independent Study/C#/Hello, person/obj/",
+        "projectPath": "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Hello, person\\Hello, person.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Hello, person\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

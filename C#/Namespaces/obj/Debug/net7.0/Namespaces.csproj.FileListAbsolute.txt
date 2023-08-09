@@ -13,3 +13,17 @@
 /home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.pdb
 /home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.genruntimeconfig.cache
 /home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/ref/Namespaces.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\bin\Debug\net7.0\Namespaces.exe
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\bin\Debug\net7.0\Namespaces.deps.json
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\bin\Debug\net7.0\Namespaces.runtimeconfig.json
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\bin\Debug\net7.0\Namespaces.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\bin\Debug\net7.0\Namespaces.pdb
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\Namespaces.AssemblyInfoInputs.cache
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\Namespaces.AssemblyInfo.cs
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\Namespaces.csproj.CoreCompileInputs.cache
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\Namespaces.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\refint\Namespaces.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\Namespaces.pdb
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\Namespaces.genruntimeconfig.cache
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Namespaces\obj\Debug\net7.0\ref\Namespaces.dll

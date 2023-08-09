@@ -13,3 +13,17 @@
 /home/rafael/Desktop/Independent Study/C#/Hello, person/obj/Debug/net7.0/Hello, person.pdb
 /home/rafael/Desktop/Independent Study/C#/Hello, person/obj/Debug/net7.0/Hello, person.genruntimeconfig.cache
 /home/rafael/Desktop/Independent Study/C#/Hello, person/obj/Debug/net7.0/ref/Hello, person.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\bin\Debug\net7.0\Hello, person.exe
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\bin\Debug\net7.0\Hello, person.deps.json
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\bin\Debug\net7.0\Hello, person.runtimeconfig.json
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\bin\Debug\net7.0\Hello, person.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\bin\Debug\net7.0\Hello, person.pdb
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\Hello, person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\Hello, person.AssemblyInfoInputs.cache
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\Hello, person.AssemblyInfo.cs
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\Hello, person.csproj.CoreCompileInputs.cache
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\Hello, person.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\refint\Hello, person.dll
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\Hello, person.pdb
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\Hello, person.genruntimeconfig.cache
+D:\Users\rafae\Ambiente de Trabalho\Study\C#\Hello, person\obj\Debug\net7.0\ref\Hello, person.dll

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/rafael/.nuget/packages/": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rafael/Desktop/Independent Study/C#/Inheritance/Inheritance.csproj",
+      "projectUniqueName": "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "/home/rafael/Desktop/Independent Study/C#/Inheritance/Inheritance.csproj",
-      "packagesPath": "/home/rafael/.nuget/packages/",
-      "outputPath": "/home/rafael/Desktop/Independent Study/C#/Inheritance/obj/",
+      "projectPath": "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Inheritance\\Inheritance.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\rafae\\Ambiente de Trabalho\\Study\\C#\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rafael/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
