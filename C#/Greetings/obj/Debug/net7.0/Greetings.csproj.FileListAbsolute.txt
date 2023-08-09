@@ -1,0 +1,15 @@
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.csproj.AssemblyReference.cache
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.AssemblyInfoInputs.cache
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.AssemblyInfo.cs
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.csproj.CoreCompileInputs.cache
+/home/rafael/Desktop/Independent Study/C#/Greetings/bin/Debug/net7.0/Greetings
+/home/rafael/Desktop/Independent Study/C#/Greetings/bin/Debug/net7.0/Greetings.deps.json
+/home/rafael/Desktop/Independent Study/C#/Greetings/bin/Debug/net7.0/Greetings.runtimeconfig.json
+/home/rafael/Desktop/Independent Study/C#/Greetings/bin/Debug/net7.0/Greetings.dll
+/home/rafael/Desktop/Independent Study/C#/Greetings/bin/Debug/net7.0/Greetings.pdb
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.dll
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/refint/Greetings.dll
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.pdb
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/Greetings.genruntimeconfig.cache
+/home/rafael/Desktop/Independent Study/C#/Greetings/obj/Debug/net7.0/ref/Greetings.dll

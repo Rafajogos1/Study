@@ -1,0 +1,15 @@
+/home/rafael/Desktop/Independent Study/C#/Namespaces/bin/Debug/net7.0/Namespaces
+/home/rafael/Desktop/Independent Study/C#/Namespaces/bin/Debug/net7.0/Namespaces.deps.json
+/home/rafael/Desktop/Independent Study/C#/Namespaces/bin/Debug/net7.0/Namespaces.runtimeconfig.json
+/home/rafael/Desktop/Independent Study/C#/Namespaces/bin/Debug/net7.0/Namespaces.dll
+/home/rafael/Desktop/Independent Study/C#/Namespaces/bin/Debug/net7.0/Namespaces.pdb
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.csproj.AssemblyReference.cache
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.AssemblyInfoInputs.cache
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.AssemblyInfo.cs
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.csproj.CoreCompileInputs.cache
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.dll
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/refint/Namespaces.dll
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.pdb
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/Namespaces.genruntimeconfig.cache
+/home/rafael/Desktop/Independent Study/C#/Namespaces/obj/Debug/net7.0/ref/Namespaces.dll
