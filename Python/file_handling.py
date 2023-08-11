@@ -1,0 +1,10 @@
+#This way works best when the files are needed for a while
+file1 = open("Test Files/test_read.txt", "r")
+file2 = open("Test Files/test_write.txt", "w")
+file3 = open("Test Files/test_append.txt", "a")
+print(file1.read())
+file2.write("Sreo")
+file3.write("\nSreo")
+file1.close()
+file2.close()
+file3.close()
