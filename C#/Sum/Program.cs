@@ -11,6 +11,6 @@ class Sum
 			Console.WriteLine("{0} + {1} = {2}", num1, num2, (num1 + num2));
 		}
 		else
-			Console.WriteLine("To use this program pass it two nubmers.");
+			Console.WriteLine("To use this program pass it two numbers.");
 	}
 }
