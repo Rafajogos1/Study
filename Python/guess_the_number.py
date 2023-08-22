@@ -6,7 +6,7 @@ min_range = 1
 max_range = 100
 if min_range > max_range: #Initial check to make sure the range is set correctly
     print("ERROR: The minimum number is smaller than the maximum number!")
-    sys.exit(1)
+    exit(1)
 num = random.randint(min_range, max_range) #Generate a random number between the range
 max_guess = int((max_range - min_range) / 10) #Set the max guesses to the difference of the values divided by 10
 guess_counter = 0
