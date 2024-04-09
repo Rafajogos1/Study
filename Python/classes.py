@@ -12,7 +12,7 @@ class Worker(Person):
     def profession(self):
         print("I'm a worker")
 
-class Birth(Person):
+class Birth(Person): #I only noticed how redundant this is afterwards, but I used it to learn how to work with inheritance.
     def __init__(self, name, age, gender, age_of_birth):
         super().__init__(name, age, gender)
         self.age_of_birth = age_of_birth
