@@ -5,7 +5,13 @@ CFLAGS = -Wall -Wextra -Werror
 AR = ar rcs
 RM = rm -f
 
-SRCS = st_print_utils.c
+SRCS = st_get_next_line.c \
+		st_get_next_line_utils.c \
+		st_math.c \
+		st_print_utils.c \
+		st_printf_colour_complex.c \
+		st_printf_colour_simple.c \
+		st_string.c
 
 OBJS = $(SRCS:.c=.o)
 
