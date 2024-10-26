@@ -18,7 +18,8 @@
 # define	CYAN	"\033[0;36m"
 
 /* Math functions */
-int		ft_power(int num, int power);
+int		st_factorial(int n);
+int		st_power(int num, int power);
 
 /* Printing utilities. */
 void	print_nl(void);
