@@ -8,7 +8,7 @@
 /* Once the mutex is unlocked, it can be locked again by a different thread. Any halted thread will try to lock it again and resume if successful. */
 
 /* This struct contains a mutex and a counter. By doing this, we can pass multiple variables to the same thread function. */
-typedef struct
+typedef struct mutex_data
 {
 	pthread_mutex_t	mutex;
 	int				shared_counter;

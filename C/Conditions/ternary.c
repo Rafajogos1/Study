@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* The use of ternary is beneficial to keep a "if-else" block into a single line of code. */
+
 int	main()
 {
 	float salary;

@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* "fprintf()" works the same way as "printf()", however, instead of printing the text into the console, it prints it into a file. */
+
 typedef struct person
 {
 	char	*name;

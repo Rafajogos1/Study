@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Regardless of what operation is being done with files, we should ALWAYS close files that we open to avoid memory leaks. */
+/* Just like we use "free()" to free memory that was allocated by "malloc()", we use "close()" to close every file opened with "open()". */
+
 char	*read_file(const char *filename)
 {
 	FILE 	*file;
@@ -10,10 +13,10 @@ char	*read_file(const char *filename)
 
 	if (!filename)
 		return(NULL);
-	file = fopen(filename, "r");
+	file = fopen(filename, "r"); /* "r" is "read only". */
 	if (file == NULL)
 		return (NULL);
-	while ((ch = fgetc(file))!= EOF)
+	while ((ch = fgetc(file))!= EOF) /* We need to know how many characters are in the file so we can properly allocate memory to the variable that will hold it. */
 			count++;
 	if (count == 0)
 	{
@@ -21,11 +24,11 @@ char	*read_file(const char *filename)
 		return (NULL);
 	}
 	count++;
-	rewind(file);
+	rewind(file); /* This returns the reading of the file to the beggining without needing to close and open it again. */
 	string = malloc(sizeof(char) * count);
 	if (!string)
 		return (NULL);
-	fgets(string, count, file);
+	fgets(string, count, file); /* Works just like "fputs()", but it reads instead and stores it to a variable. */
 	fclose(file);
 	return (string);
 }

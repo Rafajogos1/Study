@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* The Fibonnaci sequence is a sequence in which the first two cases are 0 and 1 and every following case is equal to the sum of the two preceding ones. */
+/* While geometrically different, its spiral is very simillar to the "golden spiral". */
+
 void print_numbers(int *seq, int size)
 {
 	int	i = 0;
