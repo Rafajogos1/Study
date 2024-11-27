@@ -50,7 +50,6 @@ public class Movies
 							System.out.println("Genre: " + movieList.get(i).genre);
 							System.out.println("Rating: " + movieList.get(i).rating);
 							System.out.println();
-							break;
 						}
 					else
 						System.out.println("There are no movies to display.\n");
@@ -64,6 +63,7 @@ public class Movies
 						String name = scanner.nextLine();
 						for(int i = 0; i < movieList.size(); i++)
 						{
+
 							if (movieList.get(i).title.equals(name))
 							{
 								System.out.println("Movie: " + movieList.get(i).title);
