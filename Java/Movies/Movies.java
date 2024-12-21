@@ -1,18 +1,9 @@
-import java.util.ArrayList;
 import java.util.Scanner;
-
-class Movie 
-{
-	public String	title;
-	public String	genre;
-	public String	rating;
-}
 
 public class Movies
 {
 	public static void main(String[] args)
 	{
-		ArrayList<Movie> movieList = new ArrayList<Movie>();
 		Scanner scanner = new Scanner(System.in);
 		String	choice;
 
@@ -29,51 +20,46 @@ public class Movies
 				case "1":
 					System.out.print("\033[H\033[2J");
 					System.out.flush();
-					Movie	movie = new Movie();
+					Movie	movie = new Movie("", "", "");
 					System.out.println("Please input the name of the movie:");
-					movie.title = scanner.nextLine();
+					movie.setTitle(scanner.nextLine());
 					System.out.println("Please input the genre of the movie:");
-					movie.genre = scanner.nextLine();
+					movie.setGenre(scanner.nextLine());
 					System.out.println("Please input the rating of the movie:");
-					movie.rating = scanner.nextLine();
-					movieList.add(movie);
+					movie.setRating(scanner.nextLine());
+					MovieManager.addMovie(movie);
 					System.out.print("\033[H\033[2J");
 					System.out.flush();
 					break;
 				case "2":
 					System.out.print("\033[H\033[2J");
 					System.out.flush();
-					if (!movieList.isEmpty())
-						for(int i = 0; i < movieList.size(); i++)
-						{
-							System.out.println("Movie: " + movieList.get(i).title);
-							System.out.println("Genre: " + movieList.get(i).genre);
-							System.out.println("Rating: " + movieList.get(i).rating);
-							System.out.println();
-						}
+					if (!MovieManager.checkEmpty())
+						for(int i = 0; i < MovieManager.listSize(); i++)
+							MovieManager.getInfo(i);
 					else
 						System.out.println("There are no movies to display.\n");
 					break;
 				case "3":
 					System.out.print("\033[H\033[2J");
 					System.out.flush();
-					if (!movieList.isEmpty())
+					if (!MovieManager.checkEmpty())
 					{
 						System.out.println("Please input the title of the movie you want to find:");
 						String name = scanner.nextLine();
-						for(int i = 0; i < movieList.size(); i++)
+						boolean found = false;
+						for(int i = 0; i < MovieManager.listSize(); i++)
 						{
-
-							if (movieList.get(i).title.equals(name))
+							if (MovieManager.movieExists(name, i))
 							{
-								System.out.println("Movie: " + movieList.get(i).title);
-								System.out.println("Genre: " + movieList.get(i).genre);
-								System.out.println("Rating: " + movieList.get(i).rating);
-								System.out.println();
+								found = true;
+								MovieManager.getInfo(i);
 								break;
 							}
 						}
-						System.out.println("No movie named " + name + " was found.");
+						if (!found)
+							System.out.println("No movie with by the name \"" + name + "\" was found.");
+						found = false;
 					}
 					else
 						System.out.println("There are no movies to display.\n");
